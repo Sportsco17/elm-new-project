@@ -1,2 +1,2 @@
-# elm-new-project
-Elm Tree taster
+# Elm new project
+
